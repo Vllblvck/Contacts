@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="description_avatar_icon">avatarPath icon</string>
+    <string name="action_search">Search</string>
+    <string name="contentDescription_avatar">avatarPath</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_surname">surname</string>
+    <string name="hint_telephone_number">Telephone number</string>
+    <string name="hint_e_mail">E-mail</string>
+    <string name="radioButton_male">Male</string>
+    <string name="radioButton_female">Female</string>
+    <string name="activity_editContact_name">Edit contact</string>
+    <string name="menuTitle_select_all">select all</string>
+    <string name="menuTitle_delete">delete</string>
+</resources>
